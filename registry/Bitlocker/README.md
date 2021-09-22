@@ -11,7 +11,7 @@ Start: When the BitLocker Wizard was run (UTC+0, YYYY-MM-DD_HH:MM:SS)
 End: When encryption was completed by BitLocker (UTC+0, YYYY-MM-DD_HH:MM:SS)
 
 Flag: ACSC{Start_End}
-ex) ACSC{2021-05-06_12:00:01_2021-05-06_12:53:11}
+ex: ACSC{2021-05-06_12:00:01_2021-05-06_12:53:11}
 ```
 
 ## Solution
