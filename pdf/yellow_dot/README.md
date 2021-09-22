@@ -1,6 +1,8 @@
 # Yellow Dot
 
-## Knowledge
+## Description
+
+Download file: [link](yellow_dot.pdf)
 
 [Machine Identification Code](https://en.wikipedia.org/wiki/Machine_Identification_Code)
 
@@ -70,7 +72,7 @@ Decoded:
 
 - Final script:
 
-```bash
-for file in `find . -name "*.png"`;do echo -n $(deda_parse_print $file | grep serial | grep -Eo [0-9]{6}) | sed 's/\(..\)/\1 /g' | awk '{printf "%c%c%c",$1,$2,$3}';done
+```console
+$ for file in `find . -name "*.png"`;do echo -n $(deda_parse_print $file | grep serial | grep -Eo [0-9]{6}) | sed 's/\(..\)/\1 /g' | awk '{printf "%c%c%c",$1,$2,$3}';done
 ```
 
