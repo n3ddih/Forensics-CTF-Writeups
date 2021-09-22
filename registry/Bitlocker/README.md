@@ -32,8 +32,8 @@ Open **SYSTEM** file in the tool (*In my case it's `Registry Viewer`*). Locate t
 
 ![image](solve1.png)
 
-- Start time: 132741897867405652
-- End time: 132741901078561213
+- **Start time**: **132741897867405652**
+- **End time**: **132741901078561213**
 
 To convert windows timestamp to UTC time
 
