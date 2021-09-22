@@ -18,15 +18,15 @@ Download file: [link](yellow_dot.pdf)
 
 - convert pdf to images
 
-```bash
-pdftoppm -png yellow_dot.pdf output
+```console
+$ pdftoppm -png yellow_dot.pdf output
 ```
 
 - `deda_parse_print` to extract information from yellow dot
 
 - 1 file output example:
 
-```bash
+```console
 $ deda_parse_print yellow_dot-1.png
 Detected pattern 4
 
