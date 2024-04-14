@@ -15,3 +15,7 @@
 ## PDF
 
 - **Yellow Dot**: [Corupted - FU-Secathon2020](pdf/yellow_dot/README.md)
+
+## AUDIO
+
+- **Morse code**: [FRS302 - FuSec2021](audio/morse_code/README.md)
