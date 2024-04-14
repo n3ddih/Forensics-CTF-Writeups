@@ -18,7 +18,7 @@ The player need to identify which byte in the header contains the value of the h
 > 
 > Source: Wikipedia - File Header
 
-[Dowload file here](https://github.com/n3ddih/FuSec2021_Writeup_FRS/raw/main/FRS301/flag.bmp)
+[Dowload file here](flag.bmp)
 
 ## Details
 
